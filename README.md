@@ -1,1 +1,2 @@
 # codes
+This project contains deep learning code for training a neural network model using a custom dataset. The training process runs over multiple **epochs**, where the model learns by minimizing a **loss function** through backpropagation and optimization. As training progresses, the model improves its accuracy by adjusting its internal weights based on the loss. The code includes scripts for data loading, model definition, training, and evaluation.
